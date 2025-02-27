@@ -38,3 +38,23 @@ npm test
 
 📜 Licença
 Este projeto foi desenvolvido exclusivamente para o processo seletivo da Eadskill e não possui uma licença pública.
+
+# Lista de produtos PC
+
+![Lista de produtos PC](public/images/screenshot_1_pc_01.png)
+
+# Lista de produtos/modal de edição - PC
+
+![Lista de produtos/modal de edição - PC](public/images/screenshot_1_pc_02.png)
+
+# Lista de produtos/modal de exclusão de item - PC
+
+![Lista de produtos/modal de exclusão de item - PC](public/images/screenshot_1_pc_03.png)
+
+# Lista de produtos/modal de adição de item - PC
+
+![App Web - tela dos cursos disponíveis - Mobile](public/images/screenshot_1_pc_04.png)
+
+# Lista de produtos - Mobile
+
+![Lista de produtos - Mobile](public/images/screencapture-localhost-3000-2025-02-27-00_40_01_mobile_01.png)
