@@ -2,6 +2,7 @@
 
 - CRUD completo de produtos utilizando **Next.js 15**, **MUI**, **TypeScript** e **Fake Store API**.
 - Este é um projeto **Next.js** criado com `create-next-app`.
+- Para rodar este projeto, é necessário **Node.js 18.18 ou posterior**. Consulte Doc Nextjs.
 
 ---
 
